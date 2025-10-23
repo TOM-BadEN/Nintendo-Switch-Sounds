@@ -44,13 +44,13 @@ Nintendo-Switch-Sounds/
 
 ### 典型音效示例
 
-  `SeBtnDecide.bfwav`             按钮确认音效 
-  `SeBtnFocus.bfwav`              按钮获得焦点音效 
-  `SeGameIconDecide.bfwav`        选择游戏图标音效 
-  `SeUnlockHome.bfwav`            Home键解锁音效 
-  `StartupMenu_Game.bfwav`        游戏菜单启动音效 
-  `SeSuccess.bfwav`               操作成功音效 
-  `SeWarning.bfwav`               警告提示音效 
+-  `SeBtnDecide.bfwav`             按钮确认音效 
+-  `SeBtnFocus.bfwav`              按钮获得焦点音效 
+-  `SeGameIconDecide.bfwav`        选择游戏图标音效 
+-  `SeUnlockHome.bfwav`            Home键解锁音效 
+-  `StartupMenu_Game.bfwav`        游戏菜单启动音效 
+-  `SeSuccess.bfwav`               操作成功音效 
+-  `SeWarning.bfwav`               警告提示音效 
 
 ## 提取工具
 
@@ -178,6 +178,7 @@ For commercial use, please contact Nintendo for official authorization.
 ## Acknowledgments
 
 - [switch-libpulsar](https://github.com/p-sam/switch-libpulsar) - Provided excellent audio parsing library
+
 
 
 
