@@ -136,13 +136,13 @@ This repository contains sound effects covering various Switch system interactio
 
 ### Typical Sound Effect Examples
 
-  `SeBtnDecide.bfwav`             Button confirm sound
-  `SeBtnFocus.bfwav`              Button focus sound
-  `SeGameIconDecide.bfwav`        Game icon selection sound
-  `SeUnlockHome.bfwav`            Home button unlock sound
-  `StartupMenu_Game.bfwav`        Game menu startup sound
-  `SeSuccess.bfwav`               Success sound
-  `SeWarning.bfwav`               Warning sound
+ - `SeBtnDecide.bfwav`             Button confirm sound
+ - `SeBtnFocus.bfwav`              Button focus sound
+ - `SeGameIconDecide.bfwav`        Game icon selection sound
+ - `SeUnlockHome.bfwav`            Home button unlock sound
+ - `StartupMenu_Game.bfwav`        Game menu startup sound
+ - `SeSuccess.bfwav`               Success sound
+ - `SeWarning.bfwav`               Warning sound
 
 ## Extraction Tool
 
@@ -178,6 +178,7 @@ For commercial use, please contact Nintendo for official authorization.
 ## Acknowledgments
 
 - [switch-libpulsar](https://github.com/p-sam/switch-libpulsar) - Provided excellent audio parsing library
+
 
 
 
